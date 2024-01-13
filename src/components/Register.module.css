@@ -1,0 +1,55 @@
+body {
+    background-color: rgba(116, 53, 199, 0.678);
+    color: white;
+  }
+  
+  .form {
+      width: max-content;
+      margin: 5vh auto;
+      padding: 6vh;
+      text-align: center;
+      border: 1px solid white;
+    }
+    
+    .form:hover {
+        box-shadow: 0 1vh 1vh;
+    }
+    
+    
+    .head {
+      font-size: 10vh;
+      text-align: center;
+      margin-bottom: 2vh;
+    }
+
+    .btn {
+        font-size: 4vh;
+        border-radius: 2vh;
+        padding: 1vh;
+        margin: 2vh 12vw;
+    }
+    
+    p {
+        color: red;
+        font-size: 3vh;
+    }
+    
+    .inputs {
+      font-size: 4vh;
+      padding: 1vh 3vw;
+      border-radius: 2vh;
+      outline: none;
+      text-align: center;
+      margin-bottom: 1vh;
+    }
+    
+    .click {
+      text-decoration: none;
+      color: aqua;
+    }
+    
+    .bottom {
+    color: white;
+    text-align: center;
+  }
+  
